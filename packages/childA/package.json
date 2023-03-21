@@ -1,0 +1,22 @@
+{
+  "name": "childa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertrandE/npm-repro-bin-child-workspace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bertrandE/npm-repro-bin-child-workspace/issues"
+  },
+  "homepage": "https://github.com/bertrandE/npm-repro-bin-child-workspace#readme",
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
+}
